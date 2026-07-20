@@ -16,13 +16,11 @@ Bangla Tech Community
 
 Bangla tech community for learners and builders. Tutorials, tools, and real talk.
 
-## Projects
 
-- **[jubairsensei-site](https://github.com/JubairSenseiDev/jubairsensei-site)** — Blog, tools, admin panel, URL shortener, file uploads
 
 ## Tech
 
-React · TypeScript · Cloudflare Pages · D1 · R2 · Three.js
+Just 
 
 ---
 
