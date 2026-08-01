@@ -9,8 +9,6 @@
 
 <br><br>
 
-<img src="/img/logo.png" width="120" alt="Jubair Sensei Logo">
-
 <h1>Jubair Sensei</h1>
 
 <h3>『 Bangla Technology Community 』</h3>
